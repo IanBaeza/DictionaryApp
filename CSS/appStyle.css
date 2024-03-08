@@ -49,3 +49,26 @@ body{
     border-radius: 5px;
 }
 
+.resultado-box {
+    position: relative;
+}
+
+.resultado-box h3 {
+    font-size: 35px;
+    color: rgb(27, 52, 21);
+}
+
+.resultado-box .palabra-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+
+.resultado-box button {
+    background-color: transparent;
+    color: rgb(27, 52, 21);
+    border: none;
+    outline: none;
+    font-size: 25px;
+}
+
