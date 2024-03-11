@@ -75,7 +75,7 @@ body{
 .resultado-box .detalle-palabra-p {
     display: flex;
     gap: 10px;
-    color: rgb(27, 52, 21);
+    color: rgba(27, 52, 21, 0.511);
     margin: 5px 0 20px 0;
     font-size: 18px;
 }
